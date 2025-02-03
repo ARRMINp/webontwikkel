@@ -4,4 +4,4 @@ ArminP: voorpagina
 
 ArminS:
 
-Robbin: de guiz
+Robbin: de quiz
