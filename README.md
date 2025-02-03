@@ -1,8 +1,7 @@
 taakverdeling:
 
-ArminP: 
-De Quiz
+ArminP: voorpagina 
 
 ArminS:
 
-Robbin:
+Robbin: de guiz
